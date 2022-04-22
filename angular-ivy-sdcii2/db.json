@@ -1,0 +1,39 @@
+{
+  "contas": [
+    {
+      "id": 1,
+      "nome": "Gustavo",
+      "cpf": "123",
+      "saldo": 0,
+      "idconta": "123"
+    },
+    {
+      "id": 2,
+      "nome": "Wagner",
+      "cpf": "124",
+      "saldo": 0,
+      "idconta": "890"
+    },
+    {
+      "id": 3,
+      "nome": "Diniz",
+      "cpf": "125",
+      "saldo": 10,
+      "idconta": "432"
+    },
+    {
+      "id": 4,
+      "nome": "Emanuel",
+      "cpf": "132",
+      "saldo": 0,
+      "idconta": "723"
+    },
+    {
+      "id": 5,
+      "nome": "Lucas",
+      "cpf": "765",
+      "saldo": 50,
+      "idconta": "809"
+    }
+  ]
+}
